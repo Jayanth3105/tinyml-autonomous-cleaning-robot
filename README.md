@@ -122,13 +122,6 @@ The system integrates perception, decision-making, and actuation, enabling adapt
 5. Activate appropriate cleaning mechanism  
 6. Continue navigation  
 
----
-
-## 📸 Prototype
-
-
-::contentReference[oaicite:6]{index=6}
-
 
 ---
 
